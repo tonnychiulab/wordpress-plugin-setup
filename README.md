@@ -92,7 +92,7 @@ AI 就會自動按照 8 步流程開始工作。
 ```bash
 # 在你的 WordPress 專案中
 mkdir -p .agent/skills
-git clone https://github.com/你的帳號/wordpress-plugin-setup.git .agent/skills/wordpress-plugin-setup
+git clone https://github.com/tonnychiulab/wordpress-plugin-setup.git .agent/skills/wordpress-plugin-setup
 ```
 
 ### 手動建立外掛
