@@ -1,0 +1,16 @@
+{
+  "name": "{{plugin-name}}",
+  "version": "1.0.0",
+  "description": "{{plugin-description}}",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./src/css/main.css -o ./dist/css/admin.min.css --watch",
+    "build": "tailwindcss -i ./src/css/main.css -o ./dist/css/admin.min.css --minify",
+    "build:dev": "tailwindcss -i ./src/css/main.css -o ./dist/css/admin.min.css"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  },
+  "author": "{{author-name}}",
+  "license": "GPL-2.0-or-later"
+}
