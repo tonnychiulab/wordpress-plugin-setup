@@ -6,7 +6,7 @@
 
 ## ✨ 這是什麼？
 
-如果你用 Google Antigravity（AI 編程助手）來開發 WordPress 外掛，這個 Skill 就像一本**標準作業手冊**——AI 會按照手冊裡的步驟，從建立外掛到打包發布，每一步都幫你做到位。
+如果你用 Google Antigravity（AI 輔助程式開發）來開發 WordPress 外掛，這個 Skill 就像一本**標準作業手冊**——AI 會按照手冊裡的步驟，從建立外掛到打包發布，每一步都幫你做到位。
 
 **適合誰？**
 - 🆕 不太會寫程式，但想做 WordPress 外掛的人
