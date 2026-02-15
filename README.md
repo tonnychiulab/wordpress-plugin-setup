@@ -79,7 +79,7 @@ wordpress-plugin-setup/
 將此專案 clone 到你的工作區，Antigravity 會自動讀取 `SKILL.md` 並按照流程操作：
 
 ```bash
-git clone https://github.com/你的帳號/wordpress-plugin-setup.git
+git clone https://github.com/tonnychiulab/wordpress-plugin-setup.git
 ```
 
 然後在 Antigravity 中對話：
